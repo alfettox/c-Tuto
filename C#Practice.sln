@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StopWatch", "StopWatch\Stop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{653B6664-79D0-46C7-81D4-3FE5DA9C7FBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowEngine", "WorkflowEngine\WorkflowEngine.csproj", "{EBD07715-447B-4A24-8561-68304788584D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{653B6664-79D0-46C7-81D4-3FE5DA9C7FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{653B6664-79D0-46C7-81D4-3FE5DA9C7FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{653B6664-79D0-46C7-81D4-3FE5DA9C7FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD07715-447B-4A24-8561-68304788584D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD07715-447B-4A24-8561-68304788584D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD07715-447B-4A24-8561-68304788584D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD07715-447B-4A24-8561-68304788584D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
